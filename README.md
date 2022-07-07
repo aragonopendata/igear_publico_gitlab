@@ -4,7 +4,7 @@ Repositorios en el que se incluye el código fuente y recursos desarrollados por
 https://gitlab.com/igear_publico
 
 
-* Atlas Atlas interactivo de Aragón https://gitlab.com/igear_publico/atlas
+* **Atlas** interactivo de Aragón https://gitlab.com/igear_publico/atlas
 * Aplicación que muestra distinta información de una localización geográfica https://gitlab.com/igear_publico/dondevivo
 * lib es la librería javascript utilizada por la mayoría de las aplicaciones de IDEARAGON. Incluye librerías externas y código propio. https://gitlab.com/igear_publico/lib
 * simpleSearchService simpleSearchService es servicio Web para búsquedas geográficas https://gitlab.com/igear_publico/simplesearchservice
